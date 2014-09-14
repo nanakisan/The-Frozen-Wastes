@@ -33,3 +33,5 @@ var bloodorb = <AWWayofTime:archmageBloodOrb>;
 mods.thaumcraft.Infusion.addRecipe("INFUSION", bloodorb, [essence,essence,essence,essence,essence,essence,minium,minium,minium,minium,minium,minium], "mortuus 32, victus 64, humanus 32", <EE3:stonePhilosophers>, 15);
 //ResultStack
 mods.thaumcraft.Infusion.removeRecipe(<EE3:stonePhilosophers>);
+
+testy test test
