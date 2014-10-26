@@ -1,8 +1,33 @@
 Main mod list with permissions listed here  
 https://docs.google.com/spreadsheets/d/1up3rGQA4SmNDwlFUe5POaxjRjNfjmnhacwVx1PcCRXc/edit#gid=0  
-  
-    
-Version 1.0-Alpha
+=====================
+
+Version 1.0-A2
+ -Removed Modular Furnaces for real
+ -Removed EE3
+ -Removed Special Mobs
+ -Removed Lycanites Mobs
+ -Removed Ars Magica 2 (I might re-add later if proven stable on latest forge)
+ -Removed Lot's O'Mobs
+ -Removed Just Another Spawner
+ -Removed Project Zulu
+ ==
+ -Added Mystcraft
+ -Added Biome Tweaker
+ -Added YeGamolChattels
+ -Added Sanguimancy
+ -Added Difficulty Tweaks
+ ==
+ Config changes
+ -balanced Mystcraft pages and overall world generation to meet pack theme
+ -Changed hell biome into Frozen Hell. Currently working on a way to make hell be literally frozen over :D
+ -Tweaked things so you have to use Tinkers tools to start.
+ -Enviromine tweaked so air quality is better managed with various helmets instead of a leaf block
+ -Added a very "special" config just for xCompwiz should he ever play my pack. Hope you like your glasses!
+ 
+ ============================
+ 
+Version 1.0-A1
 
 -Rebuilding map and quests
 -Removed Modular Systems
