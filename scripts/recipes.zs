@@ -22,16 +22,16 @@ recipes.addShaped(<ProjectZulu|Core:tombstone>,
   [cslab, cslab, cslab]]);
   
   
-// Custom Infusions
+/* Custom Infusions [Temporarily Disabled]
 mods.thaumcraft.Aspects.set(<TConstruct:buckets:16>, "victus 8, metallum 3");
 
 var minium = <EE3:stoneMinium>;
 var essence = <AWWayofTime:bucketLife>;
-var bloodorb = <AWWayofTime:archmageBloodOrb>;
+// var crystal = <AWWayofTime:demonBloodShard>;
 
-//ResearchKey, MainInputStack, ArrayOfInputStacks, AspectsList, ResultStack, Instability
-mods.thaumcraft.Infusion.addRecipe("INFUSION", bloodorb, [essence,essence,essence,essence,essence,essence,minium,minium,minium,minium,minium,minium], "mortuus 32, victus 64, humanus 32", <EE3:stonePhilosophers>, 15);
-//ResultStack
-mods.thaumcraft.Infusion.removeRecipe(<EE3:stonePhilosophers>);
 
-testy test test
+// ResearchKey, MainInputStack, ArrayOfInputStacks, AspectsList, ResultStack, Instability
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <AWWayofTime:demonBloodShard>, [essence,essence,essence,essence,essence,essence,minium,minium,minium,minium,minium,minium], "mortuus 16, victus 16, humanus 16", <EE3:stonePhilosophers>, 15);
+// ResultStack
+// mods.thaumcraft.Infusion.removeRecipe(<EE3:stonePhilosophers>);
+*/
